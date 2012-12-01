@@ -103,7 +103,7 @@ namespace SkinningSample
         protected override void LoadContent()
         {
              // Load the model.
-            Model currentModel = Content.Load<Model>("player");
+            Model currentModel = Content.Load<Model>("dude");
             SkinningData skinningData = currentModel.Tag as SkinningData;
 
             if (skinningData == null)
@@ -117,7 +117,7 @@ namespace SkinningSample
             // Look up our custom skinning information.
 
             // Create an animation player, and start decoding an animation clip.
-            Dictionary<JointType, int> jointMap = LoadJointMap();
+            Dictionary<JointType, int> jointMap = LoadJointMapDude();
             animationPlayer = new AnimationPlayer(currentModel, graphics.GraphicsDevice.RasterizerState, jointMap);
            
         }
@@ -242,6 +242,55 @@ namespace SkinningSample
             jointMap.Add(JointType.KneeRight, 35 + i); // R_Knee 55
             jointMap.Add(JointType.AnkleRight, 43 + i); // R_Ankle 56
 
+            return jointMap;
+        }
+
+		private Dictionary<JointID, int> LoadJointMapDude()
+        {
+            Dictionary<JointID, int> jointMap = new Dictionary<JointID, int>();
+ 
+            // Root 0
+            jointMap.Add(JointID.HipCenter, 1); // Pelvis 1
+            // Spine 2
+            jointMap.Add(JointID.Spine, 3); // Spine1 3
+            // Spine2 4
+            // Spine3 5
+            jointMap.Add(JointID.ShoulderCenter, 6); // Neck
+            jointMap.Add(JointID.Head, 7); // Head
+ 
+            // L_eye_joint1 8
+            // R_eye_joint 9
+            // L_eyeBall_joint2 10
+            // R_eyeBall_joint 11
+ 
+            // L_Clavicle 12
+            jointMap.Add(JointID.ShoulderLeft, 13); // L_UpperArm 13  
+            jointMap.Add(JointID.ElbowLeft, 14); // L_Forearm 14
+            jointMap.Add(JointID.WristLeft, 15); // L_Hand 15
+ 
+            //...
+            // Left Hand fingers
+            //...
+ 
+            // R_Clavicle 31
+            jointMap.Add(JointID.ShoulderRight, 32); // R_UpperArm 32
+            jointMap.Add(JointID.ElbowRight, 33); // R_Forearm 33
+            jointMap.Add(JointID.WristRight, 34); // R_Hand 34
+ 
+            //...
+            // Right Hand Fingers
+            //...
+ 
+            jointMap.Add(JointID.HipLeft, 50); // L_Thigh1 50
+            jointMap.Add(JointID.KneeLeft, 51); // L_Knee2 51
+            jointMap.Add(JointID.AnkleLeft, 52); // L_Ankle1 52
+            // L_Ball 53
+ 
+            jointMap.Add(JointID.HipRight, 54); // R_Thigh 54
+            jointMap.Add(JointID.KneeRight, 55); // R_Knee 55
+            jointMap.Add(JointID.AnkleRight, 56); // R_Ankle 56
+            // R_Ball 57
+ 
             return jointMap;
         }
 
