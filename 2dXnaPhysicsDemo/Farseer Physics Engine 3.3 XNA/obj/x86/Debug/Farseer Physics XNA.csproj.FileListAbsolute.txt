@@ -1,0 +1,12 @@
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Physics Engine 3.3 XNA\bin\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Physics Engine 3.3 XNA\bin\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\Farseer Physics XNA.csprojResolveAssemblyReference.cache
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\XnaTest\Farseer Physics Engine 3.3 XNA\bin\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\XnaTest\Farseer Physics Engine 3.3 XNA\bin\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\XnaTest\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\Farseer Physics XNA.csprojResolveAssemblyReference.cache
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\XnaTest\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\XnaTest\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\XnaTest\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\FarseerPhysicsXNA.pdb

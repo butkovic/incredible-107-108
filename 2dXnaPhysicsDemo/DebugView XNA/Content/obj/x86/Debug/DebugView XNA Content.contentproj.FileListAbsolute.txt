@@ -1,0 +1,2 @@
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Samples XNA\DebugView XNA\Content\obj\x86\Debug\DebugView XNA Content.contentprojResolveAssemblyReference.cache
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\XnaTest\DebugView XNA\Content\obj\x86\Debug\DebugView XNA Content.contentprojResolveAssemblyReference.cache

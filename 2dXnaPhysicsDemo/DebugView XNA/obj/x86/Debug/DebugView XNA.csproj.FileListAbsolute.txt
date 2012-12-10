@@ -1,0 +1,20 @@
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Samples XNA\DebugView XNA\bin\x86\Debug\Content\font.xnb
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Samples XNA\DebugView XNA\bin\x86\Debug\DebugViewXNA.dll
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Samples XNA\DebugView XNA\bin\x86\Debug\DebugViewXNA.pdb
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Samples XNA\DebugView XNA\bin\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Samples XNA\DebugView XNA\bin\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Samples XNA\DebugView XNA\bin\x86\Debug\FarseerPhysicsXNA.xml
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Samples XNA\DebugView XNA\obj\x86\Debug\DebugView XNA.csprojResolveAssemblyReference.cache
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Samples XNA\DebugView XNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Samples XNA\DebugView XNA\obj\x86\Debug\DebugViewXNA.dll
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\Farseer Physics Engine 3.3.1 Samples XNA\DebugView XNA\obj\x86\Debug\DebugViewXNA.pdb
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\XnaTest\DebugView XNA\bin\x86\Debug\Content\font.xnb
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\XnaTest\DebugView XNA\bin\x86\Debug\DebugViewXNA.dll
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\XnaTest\DebugView XNA\bin\x86\Debug\DebugViewXNA.pdb
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\XnaTest\DebugView XNA\bin\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\XnaTest\DebugView XNA\bin\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\XnaTest\DebugView XNA\bin\x86\Debug\FarseerPhysicsXNA.xml
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\XnaTest\DebugView XNA\obj\x86\Debug\DebugView XNA.csprojResolveAssemblyReference.cache
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\XnaTest\DebugView XNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\XnaTest\DebugView XNA\obj\x86\Debug\DebugViewXNA.dll
+C:\Users\pducic.INFOBIP\Documents\Visual Studio 2010\Projects\XnaTest\DebugView XNA\obj\x86\Debug\DebugViewXNA.pdb
