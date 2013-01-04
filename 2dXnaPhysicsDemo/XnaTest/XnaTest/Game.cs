@@ -58,9 +58,14 @@ namespace XnaTest
         {
             // TODO: Add your initialization logic here
             base.Initialize();
-            CollisionTest collisionTest = new CollisionTest();
-            ScreenManager.AddScreen(collisionTest);
             
+            //ColisionTest
+            //CollisionTest collisionTest = new CollisionTest();
+            //ScreenManager.AddScreen(collisionTest);
+          
+            //Initial Game
+            InitialGame initialGame = new InitialGame();
+            ScreenManager.AddScreen(initialGame);
         }
 
         /// <summary>
